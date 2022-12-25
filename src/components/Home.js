@@ -26,7 +26,7 @@ function Home(){
             <div className="flex justify-evenly pt-8 hello">
                 <a href="https://learnkiddiction.netlify.app/"><img className="h-64 w-64 animate-pulse hover:animate-none" src="./images/My project.png" alt="helllo"/></a>
                 <a href="https://zatharox.github.io/Simon-game-/"><img className="h-64 w-64 animate-pulse hover:animate-none" src="./images/My-project.png" alt="helllo"/></a>
-                <img className="h-64 w-64 animate-pulse hover:animate-none" src="https://th.bing.com/th/id/OIP.nXdYFrpHKJDbG5prs42jCAHaHa?pid=ImgDet&rs=1" alt="helllo"/>
+                {/* <img className="h-64 w-64 animate-pulse hover:animate-none" src="https://th.bing.com/th/id/OIP.nXdYFrpHKJDbG5prs42jCAHaHa?pid=ImgDet&rs=1" alt="helllo"/> */}
             </div>
             <div className="flex justify-evenly">
                 <p className="pr-8 ">LEARN</p>
