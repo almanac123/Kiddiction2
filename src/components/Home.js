@@ -31,7 +31,7 @@ function Home(){
             <div className="flex justify-evenly">
                 <p className="pr-8 ">LEARN</p>
                 <p className="pl-16 ">PLAY</p>
-                <p>PARENT</p>
+                {/* <p></p> */}
             </div>
             </div>
         
